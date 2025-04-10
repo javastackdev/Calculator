@@ -1,2 +1,2 @@
 # Calculator
-A Basic  Calculator for arithmetic operations
+A Basic  C Calculator that performs addition,subtraction,multiplication, and division
